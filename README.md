@@ -50,16 +50,13 @@
 ---
 
 ## 前置準備 (環境與套件)
-在執行之前，請確保已安裝以下 Python 套件 (可使用 `requirements.txt` 進行安裝)：
+在執行之前，請確保已安裝以下 Python 套件：
 - Python 3.x
 - pandas
 - numpy
 - scikit-learn
 - matplotlib
 - jupyter (若需要跑 Notebook)
-
-安裝方法：
-```pip install -r requirements.txt```
 
 ---
 
